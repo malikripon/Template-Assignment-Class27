@@ -51,7 +51,7 @@
         padding: 15px 10px;
     }
     .heroText h1 {
-        font-size: 36px;
+        font-size: 40px;
     }
     .heroImage {
         padding: 100px 0;
@@ -84,6 +84,19 @@
     .iconSize {
         font-size: 40px;
     }
+    .title p {
+        padding: 27px 60px !important;
+        margin-bottom: 0;
+    }
+    .space {
+        padding: 0 20px;
+    }
+    .contactIcon {
+        margin-top: 35px;
+    }
+    .singleService p {
+        padding: 0 70px;
+    }
 }
 @media (max-width: 560px) {
     .menu ul li {
@@ -94,6 +107,14 @@
         padding: 30px 20px;
         margin-left: -51px;
     }
-   
+    .space {
+        padding: 0 20px;
+    }
+    .singleService p {
+        padding: 0 70px;
+    }
+    .title p {
+        padding: 27px 0 !important;
+    }
 }
 
